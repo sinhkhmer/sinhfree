@@ -160,13 +160,13 @@ def main_apv():
         print ("  Copy Key And Sent Me WhatsApp Approvel Your Key ")
         print ("༄•───────────────────────────────────────•༄")
         time.sleep(3.5)
-        tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
+        tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+8801907048765?text=' + tks)
+        os.system('am start https://m.me/Linux.GPT.6?text=' + tks)
 
         
 
-    r1=requests.get("https://github.com/R1B-6T9/R1B-6T9/blob/main/R1B-6T9.txt").text
+    r1=requests.get("https://github.com/sinhkhmer/trick/blob/main/trick.txt").text
 
     if key1 in r1:
 
