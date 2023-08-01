@@ -189,19 +189,15 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+8801907048765?text=' + tks)
+        os.system('am start https://m.me/Linux.GPT.6?text=' + tks)
 
 logo ="""          
-
-'########:::::'##:::'########::::::::::::'#######::'########::'#######::
- ##.... ##::'####::: ##.... ##::::::::::'##.... ##:... ##..::'##.... ##:
- ##:::: ##::.. ##::: ##:::: ##:::::::::: ##::::..::::: ##:::: ##:::: ##:
- ########::::: ##::: ########::'#######: ########::::: ##::::: ########:
- ##.. ##:::::: ##::: ##.... ##:........: ##.... ##:::: ##:::::...... ##:
- ##::. ##::::: ##::: ##:::: ##:::::::::: ##:::: ##:::: ##::::'##:::: ##:
- ##:::. ##::'######: ########:::::::::::. #######::::: ##::::. #######::
-..:::::..:::......::........:::::::::::::.......::::::..::::::.......:::
-
+ \033[1;37m███████╗██╗███╗   ██╗██╗  ██╗
+\033[1;35m ██╔════╝██║████╗  ██║██║  ██║
+\033[1;34m ███████╗██║██╔██╗ ██║███████║
+\033[1;37m ╚════██║██║██║╚██╗██║██╔══██║
+\033[1;36m ███████║██║██║ ╚████║██║  ██║
+\033[1;33m ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ........................
 
     
@@ -253,7 +249,7 @@ def R():
 				dupcutter()
 
 			elif key in ["4", "04"]:
-				os.system("xdg-openhttps://www.facebook.com/profile.php?id=100087345804861")
+				os.system("xdg-open https://web.facebook.com/Linux.GPT.6")
 
 				R()
 
@@ -317,7 +313,7 @@ class __xxx__:
 
         global ok,cp,loop
 
-        sys.stdout.write(f"\r \x1b[1;33m[R1B-6T9]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
+        sys.stdout.write(f"\r \x1b[1;33m[SINH]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
 
         sys.stdout.flush()
 
@@ -469,7 +465,7 @@ class __xxx__:
 
                     cp.append(wrt)
 
-                    open('/sdcard/RITU_CP.txt' , 'a').write('%s\n' % wrt)
+                    open('/sdcard/SINH_CP.txt' , 'a').write('%s\n' % wrt)
 
                     break
 
@@ -605,12 +601,12 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+8801907048765")
+	os.system("xdg-open  https://m.me/Linux.GPT.6)
 	time.sleep(3)
 	R()
 def yt():
 	logo()
-	os.system("xdg-open https://www.facebook.com/profile.php?id=100087345804861")
+	os.system("xdg-open https://web.facebook.com/Linux.GPT.6")
 	time.sleep(3)
 	R()
     
